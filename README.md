@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm passionate about building real-world applications, exp
 - 💼 LinkedIn: www.linkedin.com/in/falak-nihal-0a717541b
 - 💻 GitHub: https://github.com/FalakNihal0707
 - 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, leave a ⭐ if you find something useful, and let's build something amazing together!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, and let's build something amazing together!
 
 
 # 💻 Tech Stack:
